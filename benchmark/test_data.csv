@@ -1,0 +1,36 @@
+Query,Expected Answer,Data Source
+how many non-profit taxpayer from tax data?,"988",tax_data.csv
+What is the tax owed by the individual taxpayer in 2020 tax data?,"234186.05",tax_data.csv
+What is the deduction type for the non-profit taxpayer in Illinois in 2019 tax data?,"Charitable Contributions",tax_data.csv
+What is the tax rate for the corporation taxpayer in Texas in 2019 tax data?,"13.7722%",tax_data.csv
+What is the total income for the partnership taxpayer in 2019 tax data?,"714839.81",tax_data.csv
+What is the tax rate for the first taxpayer?,13.47%,tax_data.csv
+What is the total income for the second taxpayer?,714839.81,tax_data.csv
+What are the deductions for the third taxpayer?,182288.61,tax_data.csv
+What is the taxable income for the fourth taxpayer?,539996.38,tax_data.csv
+What is the tax owed by the fifth taxpayer?,234186.05,tax_data.csv
+What is the filing deadline for Form 1040 for 2023?,"April 15, 2024, or April 17, 2024, if living in Maine or Massachusetts.",i1040gi.md
+What is the standard deduction for a single filer in 2023?,"$13,850",i1040gi.md
+What is the effect of an excise tax on coffee supply and demand?,"Excise tax shifts the supply curve upwards, increasing price and reducing quantity.",MIC_3e_Ch11.md
+What are the marginal tax brackets for single filers in the U.S.?,Marginal rates range from 10% to 39.6% depending on income levels.,MIC_3e_Ch11.md
+What was the total tax receipt as a percent of GDP in 2010?,Approximately 35% based on trends in Figure 11.6.,MIC_3e_Ch11.md
+How much is the earned income tax credit for 2023?,Refer to the IRS guidelines for earned income credit thresholds.,i1040gi.md
+How does an inelastic demand affect tax burden distribution?,Consumers bear most of the tax burden when demand is inelastic.,MIC_3e_Ch11.md
+What does Table 11.3 in the Microeconomics text illustrate?,Susan's federal income tax calculations based on taxable income and tax brackets.,MIC_3e_Ch11.md
+What is the maximum additional child tax credit in 2023?,"$1,600 per qualifying child.",i1040gi.md
+What percentage of GDP did federal taxes constitute in the mid-2000s?,"Federal taxes hovered around mid-range, contributing steadily to GDP.",MIC_3e_Ch11.md
+What are the filing requirements for U.S. citizens living abroad?,"Use Charts A, B, or C and refer to Pub. 501 for details.",i1040gi.md
+What is the income threshold for filing as head of household in 2023?,"$20,800 for under 65, $22,650 for 65 or older.",i1040gi.md
+What changes were introduced in the clean vehicle credit for 2023?,Renamed and requirements updated; use Form 8936.,i1040gi.md
+What is the maximum income to use Free File in 2023?,"$79,000 adjusted gross income.",i1040gi.md
+How do low-income taxpayer clinics assist individuals?,"Represent in audits, disputes, and provide multilingual services.",i1040gi.md
+What does Figure 11.1 illustrate about coffee market taxation?,Tax increases price to $1.33 and decreases quantity supplied.,MIC_3e_Ch11.md
+How does elastic demand influence tax revenue?,Elastic demand results in smaller tax revenue due to reduced quantity sold.,MIC_3e_Ch11.md
+What does Table 11.1 compare?,"Tax effects on elastic vs. inelastic demand regarding price, quantity, and revenue.",MIC_3e_Ch11.md
+What is represented in Table 11.2 of the Microeconomics text?,U.S. federal marginal tax rates for single and married filers.,MIC_3e_Ch11.md
+What is the deadweight loss from taxation as shown in Figure 11.5?,Areas H and I represent deadweight loss due to taxation.,MIC_3e_Ch11.md
+What is the deadline for filing a gift tax return (Form 709) for the calendar year 2023?,"April 15, 2024, unless an extension is filed along with Form 4868.",usc26118-78.md
+What is the penalty for failing to file a tax return by the deadline?,"Generally, 5% of unpaid taxes per month, up to 25%.",usc26118-78.md
+What is the income threshold for requiring a federal tax return for dependents in 2023?,"$1,250 in unearned income or $13,850 in earned income.",usc26118-78.md
+What is the IRS policy on rounding cents to dollars on tax forms?,Amounts should be rounded to the nearest whole dollar.,usc26118-78.md
+How can taxpayers elect to apply a refund to next year’s estimated taxes?,Indicate the amount on the relevant line of the tax return (Form 1040).,usc26118-78.md
